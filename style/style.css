@@ -217,6 +217,6 @@ body {
     font-weight: bold;
 }
 
-.footer-img{
-    margin: 10px;
+.footer-img a{
+    padding: 10px;
 }
