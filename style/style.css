@@ -4,8 +4,6 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Geist", serif;
-    /* margin: 20px 0; */
-    /* background-color: #B3B3B3; */
 }
 .contener{
     padding: 0 160px;
@@ -13,7 +11,6 @@ body {
 .banner{
     display: flex;
     justify-content: space-between;
-     /* margin: 20px; */
     background-color: #C6E4D6;
     border-radius: 10px;
 }
@@ -188,7 +185,6 @@ body {
     background-color: #006A50;
     gap: 16PX;
     border-radius: 10px;
-    /* margin: 80px 160px; */
 }
 
 .scarch{
