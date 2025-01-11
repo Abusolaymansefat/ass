@@ -207,3 +207,16 @@ body {
     font-size: 15px;
     color: #0E0E0E;
 }
+
+.footer{
+    text-align: center;
+}
+
+.footer-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.footer-img{
+    margin: 10px;
+}
